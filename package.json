@@ -11,5 +11,8 @@
   "description": "",
   "dependencies": {
     "eslint": "^9.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }
