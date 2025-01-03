@@ -5,7 +5,7 @@ const estaChovendo = false
 
 const nome = 'Felipe'
 
-console.log(teste);
+// console.log(teste);
 console.log(numero);
 console.log(Numero2);
 
